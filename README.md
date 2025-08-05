@@ -2,7 +2,9 @@
 
 ###
 
-<img align="center" height="250" src="assets/cove_large.png"/>
+<div align="center">
+  <img height="250" src="assets/cove_large.png"/>
+</div>
 
 ###
 
