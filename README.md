@@ -1,12 +1,16 @@
-<h2 align="left">Hi 👋! My name is Mitzi  and I'm a Jr. Front-End Developer</h2>
+<h2 align="left">Hi 👋! My name is Mitzi and I'm a Jr. Front-End Developer</h2>
 
 ###
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWRud3V1dmVvcWtyOWN2MmplOTg1M2JtMjY2c3JleWo2amNwY3Q4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
+<img align="center" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWRud3V1dmVvcWtyOWN2MmplOTg1M2JtMjY2c3JleWo2amNwY3Q4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif?autoplay=1"  />
 
 ###
 
-<p align="left">- 🔭 I’m working as Jr. Front-End Developer<br>- 📚 I'm currently learning React<br>- 🎨 In my free time I enjoy drawing and building robots<br>-🌎 I'm from Mexico<br>- 💼 I have two years of experience in front-end development<br>-🎓 I'm currently pursuing a Bachelor’s degree in Computer Systems Engineering</p>
+<p align="left">- 🔭 I’m working as fulltime Jr. Front-End Developer<br>- 📚 I'm currently learning React<br>- 🎨 In my free time I enjoy drawing and building robots<br>- 🌎 I'm from Mexico<br>- 💼 I have two years of experience in front-end development<br>- 🎓 I'm currently pursuing a Bachelor’s degree in Computer Systems Engineering</p>
+
+###
+
+<h3 align="left">Stack</h3>
 
 ###
 
@@ -23,6 +27,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
+
+###
+
+<h3 align="left">Tools</h3>
 
 ###
 
@@ -48,6 +56,10 @@
 
 ###
 
+<h3 align="left">Social</h3>
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/mitzi-rios/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -62,5 +74,3 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/MitziR02/MitziR02/output/snake.svg" alt="Snake animation" />
-
-###
