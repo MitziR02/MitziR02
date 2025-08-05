@@ -2,7 +2,7 @@
 
 ###
 
-<img align="center" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWRud3V1dmVvcWtyOWN2MmplOTg1M2JtMjY2c3JleWo2amNwY3Q4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif?autoplay=1"  />
+<img align="center" height="250" src="assets/cove_large.png"/>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">Stack</h3>
+<h2 align="left">Stack</h2>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="left">Tools</h3>
+<h2 align="left">Tools</h2>
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<h3 align="left">Social</h3>
+<h2 align="left">Social</h2>
 
 ###
 
