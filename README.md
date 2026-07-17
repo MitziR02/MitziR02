@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as fulltime Jr. Front-End Developer<br>- 📚 I'm currently learning React<br>- 🎨 In my free time I enjoy drawing and building robots<br>- 🌎 I'm from Mexico<br>- 💼 I have two years of experience in front-end development<br>- 🎓 I'm currently pursuing a Bachelor’s degree in Computer Systems Engineering</p>
+<p align="left">- 🔭 I’m working as fulltime Jr. Front-End Developer<br>- 📚 I'm currently learning React<br>- 🎨 In my free time I enjoy drawing and building robots<br>- 🌎 I'm from Mexico<br>- 💼 I have two years of experience in front-end development<br>- 🎓 I'm currently pursuing a Bachelor’s degree in Cybersecurity Engineering</p>
 
 ###
 
